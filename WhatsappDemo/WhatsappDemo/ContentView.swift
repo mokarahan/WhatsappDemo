@@ -3,7 +3,7 @@
 //  WhatsappDemo
 //
 //  Created by Mehmet Özgür Karahan on 19.02.2025.
-//
+// o lala
 
 import SwiftUI
 
